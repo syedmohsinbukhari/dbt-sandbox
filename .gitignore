@@ -1,0 +1,11 @@
+*
+!.dockerignore
+!.gitignore
+!LICENSE
+
+# repo and infra maintenance
+!Dockerfile
+
+# poetry
+!poetry.lock
+!pyproject.toml
