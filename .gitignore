@@ -3,8 +3,9 @@
 !.gitignore
 !LICENSE
 
-# repo and infra maintenance
+# build tools
 !Dockerfile
+!Makefile
 
 # poetry
 !poetry.lock
