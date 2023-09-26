@@ -10,3 +10,8 @@
 # poetry
 !poetry.lock
 !pyproject.toml
+
+# projects
+!projects
+!projects/**/
+!projects/**/*.sql
