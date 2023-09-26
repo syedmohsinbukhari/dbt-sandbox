@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "dbt-sandbox"
+version = "0.1.0"
+description = "Sandbox project for DBT"
+authors = ["Syed Mohsin Bukhari <syedmohsinbukhari@googlemail.com>"]
+license = "MIT License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+dbt-bigquery = "~1.6.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
