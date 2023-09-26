@@ -2,6 +2,7 @@
 !.dockerignore
 !.gitignore
 !LICENSE
+!README.md
 
 # build tools
 !Dockerfile
