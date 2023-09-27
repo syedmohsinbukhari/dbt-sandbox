@@ -36,3 +36,5 @@ COPY pyproject.toml .
 RUN poetry config virtualenvs.in-project true && \
     poetry lock --no-update && \
     poetry install
+
+COPY . .
