@@ -1,4 +1,6 @@
 *
+!.devcontainer
+!.devcontainer/devcontainer.json
 !.dockerignore
 !.gitignore
 !LICENSE
